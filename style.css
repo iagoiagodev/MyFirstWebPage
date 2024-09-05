@@ -22,7 +22,7 @@
   font-size: 48px;
   color: #f9faf8;
   font-weight: 900;
-  outline: solid green;
+  outline: solid rgb(234, 255, 42);
 }
 .text1 {
   font-size: 18px;
@@ -30,7 +30,7 @@
   text-align: start;
 }
 button.button1 {
-  background-color: #3882f6;
+  background-color: #75a4f1;
   color: #e5e7eb;
   padding: 5px 20px;
   border-radius: 6px;
@@ -42,7 +42,7 @@ button.button1 {
 .item4,
 .item5,
 .item6 {
-  outline: solid red;
+  outline: solid rgb(255, 203, 203);
 }
 
 .stack1 {
