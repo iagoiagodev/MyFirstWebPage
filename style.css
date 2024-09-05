@@ -53,6 +53,7 @@ img {
   color: #f9faf8;
   font-weight: 900;
   padding-left: 5px;
+
 }
 .text1 {
   font-size: 18px;
@@ -61,11 +62,12 @@ img {
   padding: 10px;
 }
 button.button1 {
-  background-color: #3882f6;
+  background-color: #75a4f1;
   color: #e5e7eb;
   padding: 5px 20px;
   border-radius: 6px;
 }
+
 /* inserir .item1,
 .item2,
 .item3,
@@ -74,6 +76,7 @@ button.button1 {
 .item6 { 
   
 } com outline para fazer alteracoes */
+
 
 .stack1 {
   display: flex;
