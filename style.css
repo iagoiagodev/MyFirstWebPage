@@ -10,6 +10,7 @@ body {
   margin: 0;
   padding: 0;
 }
+/* inserir outline para fazer alteracoes */
 .container1 {
   background-color: #1f2937;
   font-family: roboto;
@@ -21,7 +22,6 @@ body {
   padding-top: 25px;
   padding-right: 290px;
   flex-direction: row;
-  outlie: solid purple;
 }
 .headerlogo {
   font-size: 24px;
@@ -47,7 +47,7 @@ img {
   width: 400px;
   height: 200px;
 }
-
+/* inserir outline para fazer alteracoes */
 .header {
   font-size: 48px;
   color: #f9faf8;
@@ -67,14 +67,13 @@ button.button1 {
   padding: 5px 20px;
   border-radius: 6px;
 }
-
+/* inserir outline para fazer alteracoes */
 .item1,
 .item2,
 .item3,
 .item4,
 .item5,
 .item6 {
-  outlie: solid red;
 }
 
 .stack1 {
@@ -93,5 +92,3 @@ button.button1 {
   width: 50%;
 }
 /* xdxdxd */
-/* provando que eu to certo */
-/* teste2 */
